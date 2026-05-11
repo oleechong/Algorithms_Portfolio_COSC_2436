@@ -8,7 +8,9 @@ plus a written lab report.
 Owen A LeeChong - COSC 2436, Spring Semester 2026
 
 ## Description
-This portfolio serves as a comprehensive record of my work in Data Structures and Algorithms. My goal for this semester was to master the implementation of core algorithms and understand their efficiency through Big-O analysis. For this portfolio, I have adopted a modular directory structure. To maintain a clean and uniform interface, each chapter folder (CH01–CH12) contains the formal lab report and a dedicated sub-folder housing the source code. This prevents the root chapter directories from becoming cluttered and ensures the primary documentation is immediately accessible to the grader.
+This portfolio serves as a comprehensive record of my work in Data Structures and Algorithms. My goal for this semester was to master the implementation of core algorithms and understand their efficiency through Big-O analysis. For this portfolio, I have adopted a modular directory structure. 
+## Organization Note
+For this portfolio, I have adopted a modular directory structure. To maintain a clean and uniform interface, each chapter folder (CH01–CH12) contains the formal lab report and a dedicated sub-folder housing the specific source code. My rationale for this approach is future scalability; if the file structure were to grow larger, isolating the execution files ensures the repository maintains a neat, comprehensive appearance and the primary documentation remains immediately accessible.
 
 ## Repository Structure
 | Folder | Topic                                              |
